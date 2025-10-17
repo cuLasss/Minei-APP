@@ -1,0 +1,38 @@
+name: novo_projeto
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  provider: ^6.1.2
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.0.20
+  path_provider: ^2.0.10 # ou a versão mais recente
+  intl: ^0.18.0  # ou a versão mais recente disponível
+  
+  cupertino_icons: ^1.0.8  # Atualizado para a versão mais recente
+  characters: ^1.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0    # Versão está atual, pode manter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/fonts/
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-BlackItalic.ttf
+          weight: 900
+          style: italic
