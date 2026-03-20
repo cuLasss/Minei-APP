@@ -38,11 +38,7 @@ O **Minei** simplifica a economia doméstica ao permitir que o usuário:
   </tr>
 </table>
 
-<p align="center">
-  <em>Interface mobile com foco em usabilidade, economia doméstica e decisão de compra mais inteligente.</em>
-</p>
-
-> *Nota: Os prints acima demonstram a interface focada em usabilidade e design limpo.*
+> *Interface mobile com foco em usabilidade, economia doméstica e decisão de compra mais inteligente.*
 
 ---
 
