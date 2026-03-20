@@ -60,4 +60,4 @@ Se você for um recrutador ou tech lead e deseja analisar amostras específicas 
 
 **Lucas M.**
 - GitHub: [cuLasss](https://github.com/cuLasss)
-- LinkedIn: [Lucas](https://www.linkedin.com/in/lucas-m4rtin/)
+- LinkedIn: [Lucas Martin](https://www.linkedin.com/in/lucas-m4rtin/)
