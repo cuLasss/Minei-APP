@@ -25,9 +25,21 @@ O **Minei** simplifica a economia doméstica ao permitir que o usuário:
 
 ## 📱 Visual do Projeto
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="assets/screenshots/app.png" width="240" alt="Tela inicial do Minei"><br>
+      <sub>Tela inicial</sub>
+    </td>
+    <td align="center">
+      <img src="assets/screenshots/app1.png" width="240" alt="Tela da lista de compras"><br>
+      <sub>Comparação e lista de compras</sub>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="assets/screenshots/app.png" width="300" height="900" alt="Home Screen">
-  <img src="assets/screenshots/app1.png" width="300" height="900" alt="Lista de Compras">
+  <em>Interface mobile com foco em usabilidade, economia doméstica e decisão de compra mais inteligente.</em>
 </p>
 
 > *Nota: Os prints acima demonstram a interface focada em usabilidade e design limpo.*
