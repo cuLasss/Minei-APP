@@ -58,6 +58,6 @@ Se você for um recrutador ou tech lead e deseja analisar amostras específicas 
 
 ## 👨‍💻 Autor
 
-**Lucas Curcio**
+**Lucas M.**
 - GitHub: [cuLasss](https://github.com/cuLasss)
-- LinkedIn: [Lucas Curcio](https://www.linkedin.com/in/lucascurcio/)
+- LinkedIn: [Lucas](https://www.linkedin.com/in/lucas-m4rtin/)
