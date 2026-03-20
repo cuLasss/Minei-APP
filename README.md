@@ -26,8 +26,8 @@ O **Minei** simplifica a economia doméstica ao permitir que o usuário:
 ## 📱 Visual do Projeto
 
 <p align="center">
-  <img src="assets/screenshots/app.png" width="300" height="300" alt="Home Screen">
-  <img src="assets/screenshots/app1.png" width="300" height="300" alt="Lista de Compras">
+  <img src="assets/screenshots/app.png" width="300" height="900" alt="Home Screen">
+  <img src="assets/screenshots/app1.png" width="300" height="900" alt="Lista de Compras">
 </p>
 
 > *Nota: Os prints acima demonstram a interface focada em usabilidade e design limpo.*
