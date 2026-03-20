@@ -56,14 +56,6 @@ O **Minei** encontra-se em estágio de **MVP (Minimum Viable Product)** funciona
 
 ---
 
-## 🔒 Observação sobre o Código-Fonte
-
-Este repositório é uma **vitrine de portfólio**. Para preservar a integridade comercial e técnica do produto, o código-fonte original completo é mantido em um repositório privado para backup e desenvolvimento contínuo. 
-
-Se você for um recrutador ou tech lead e deseja analisar amostras específicas da arquitetura ou qualidade de código deste projeto, sinta-se à vontade para entrar em contato.
-
----
-
 ## 👨‍💻 Autor
 
 **Lucas M.**
